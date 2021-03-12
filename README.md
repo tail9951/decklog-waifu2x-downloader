@@ -51,7 +51,9 @@ go build .
 
 或是用我build好的
 
-在Releases中應該可以找到
+在Releases中應該可以找到 選那個zip就可以下載了
+
+https://github.com/tail9951/decklog-waifu2x-downloader/releases
 
 下載好後解壓縮 你會看到有一個decklog-waifu2x-downloader.exe跟一個config.ini
 
